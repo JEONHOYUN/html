@@ -1,0 +1,18 @@
+김도경
+<!DOCTYPE html>
+<html>
+<head>
+<title>김도경</title>
+</head>
+
+<body>
+
+<h1>김도경</h1>
+<p>1996.01.17</p>
+<p>서울 강동구 상일동</p>
+<p>한림대학교 중국학과 15학번</p>
+<p>바보</p>
+<p>귀여워</p>
+
+</body>
+</html> 

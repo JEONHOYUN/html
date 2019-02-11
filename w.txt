@@ -1,0 +1,70 @@
+wwwschool-google search
+web themforest
+코드나 html 등을 구입 가능
+
+
+<a href="https://www.w3schools.com">This is a link</a>
+링크공유
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html> 
+
+이미지 파일
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
+
+alt : 그림이 깨질때 다른 글자 파일로 생성
+width랑 height를 안쓰면 원본 사진의 크기로 들어감
+width or height 중 한가지만 쓰면 다른 것은 맞춰서 커짐
+
+버튼
+<button>Click me</button> 
+
+click me에 이미지 소스를 넣으면 이미지가 나옴
+ex) <button><img src="캡쳐.jpg"></button> 
+
+글자색 넣기(style : CSS)
+<p style="color:red">I am a paragraph</p> 
+글자크기 키우기
+<p style="font-size:60px">
+
+글자색 크기 같이 건드리기
+<p style="color:red; font-size:60px">
+
+.으로 글을 쓸때
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
+숫자로 순서를 만들때
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
+줄바꾸기 <br>
+
+ex) <p>This is a <br> paragraph with a line break.</p>
+
+<hr> 가로줄 생성
+
+소스 전문용어
+open tag + content + close tag : element
+<p> : open tag(start)
+</p> : close tag(end)
+<p>.....</p> : content
+<p title> <p style> : attribute
+<p style="color:red"> : color, font-size(property)
+attribute 속성
+property 특성(ex: font-size, color)
+
+github 웹저장소
